@@ -1,1 +1,0 @@
-web: React app.js
